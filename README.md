@@ -4,6 +4,8 @@ EasyTimeWarp is a simple Unity Editor Window script that enables easy manipulati
 
 ![EasyTimeWarp Screenshot](screenshot.png)
 
+Developed in `2022.3.11f1 LTS`
+
 ## Features
 
 - Adjust the time scale within a defined range (0.1f - 2.0f).
